@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <m_819>
+    <card>
+      <item id="0" name="Наличные" Cash="1000" Plan="2222" />
+      <item id="1" name="Новый" Cash="0" Plan="1000" />
+    </card>
+    <costs />
+    <income>
+      <item id="2" name="Новый" Cash="0" Plan="1000" />
+    </income>
+  </m_819>
+  <m_919>
+    <card />
+    <costs />
+    <income />
+  </m_919>
+  <m_1019>
+    <card />
+    <costs />
+    <income />
+  </m_1019>
+  <m_1219>
+    <card>
+      <item id="12" name="Новый" Cash="0" Plan="1000" />
+    </card>
+    <costs>
+      <item id="13" name="Новый" Cash="0" Plan="1000" />
+    </costs>
+    <income>
+      <item id="14" name="Новый" Cash="0" Plan="1000" />
+    </income>
+  </m_1219>
+</Database>
