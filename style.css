@@ -1,0 +1,97 @@
+header{
+/*    height: 250px;
+  
+
+    background-image: url(http://izzhizni.ru/_bl/431/45217892.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: top;
+*/
+ 
+}
+body{
+     background-image: url(http://izzhizni.ru/_bl/431/45217892.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.header-text{
+    font-family: 'Indie Flower', cursive;
+    color: ;
+    
+    font-size: 150px;
+    padding-top: 5%;
+    padding-left: 3%;
+    
+    text-shadow: 3px 3px white,
+        3px -3px white,
+        -3px 3px white,
+        -3px -3px white;
+    line-height: 100px;
+  
+}
+
+footer{
+    height: 50px;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+      
+}
+
+.nav_main{
+    display: flex;
+/*
+    background-image: url(http://izzhizni.ru/_bl/431/45217892.jpg);
+        background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+*/
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+     display: block;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    
+   padding-top: 0px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    margin: 10px;
+    border-radius: 50%;
+}
+li:hover{
+    background-color: lightgray;
+    color:black;
+}
+
+main{
+   width: 90%;
+    
+    
+   
+    
+}
+.My_card{
+/*    overflow: scroll;*/
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.page{
+    margin-left: 7%;
+    margin-right: 7%;
+}
